@@ -8,7 +8,7 @@ These functions are an extremely small wrapper around Protractor ExpectedConditi
 * "text/value" are strings that the element will wait to have
 * "timeout" is an integer length to wait in ms
 
-##Function
+##Functions
 * waitForElementText: function (el, text, timeout)
 * waitForElementValue: function (el, value, timeout)
 * waitForElementVisible: function (el, timeout)
@@ -16,4 +16,3 @@ These functions are an extremely small wrapper around Protractor ExpectedConditi
 * waitForElementSelected: function (el, timeout)
 
 ##TODO: Code Example
-##TODO: Package.json file

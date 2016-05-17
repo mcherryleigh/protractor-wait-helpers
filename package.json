@@ -1,0 +1,20 @@
+{
+  "name": "protractor-wait-helpers",
+  "version": "0.0.1",
+  "description": "Helper functions for wait()ing with expected conditions using Protractor",
+  "author": "Michael Cherry-Leigh",
+  "main": "helpers.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcherryleigh/protractor-wait-helpers"
+  },
+  "bugs": {
+    "url": "https://github.com/mcherryleigh/protractor-wait-helpers/issues"
+  },
+  "keywords": [
+    "protractor",
+    "wait",
+    "helper",
+    "utility"
+  ]
+}
